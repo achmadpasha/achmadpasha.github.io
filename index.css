@@ -498,6 +498,12 @@ section h1, h2, h3, h4, p, li {cursor: default;}
 
 
 /* RESPONSIVE BREAKPOINTS */
+@media screen and (max-width: 576px){
+    p {font-size: .8rem;}
+}
+
+
+
 @media screen and (min-width: 576px){
     .nav-bar {padding: 25px 5vw 25px 5vw;}
 
